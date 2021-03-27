@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <setParameter name="IIS Web Application Name" value="Api" />
+  <setParameter name="DefaultConnection-Web.config Connection String" value="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-WebAPIShopBridge-20210324073037.mdf;Initial Catalog=aspnet-WebAPIShopBridge-20210324073037;Integrated Security=True" />
+  <setParameter name="dbShopBridgeEntities-Web.config Connection String" value="metadata=res://*/ShopBridge.csdl|res://*/ShopBridge.ssdl|res://*/ShopBridge.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=.;initial catalog=dbShopBridge;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" />
+</parameters>
